@@ -1,5 +1,5 @@
 provider "google" {
-  project = "aitech-good-s15191"
+  project = "{YOUR-PROJECT-ID}"
   region  = "us-central1"  # 使用したいリージョン
   zone    = "us-central1-c"  # 使用したいゾーン
 }
